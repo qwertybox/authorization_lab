@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Laba5Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="SurName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Login" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Type" Type="int" Nullable="false" />
+    <Property Name="IsMaster" Type="bit" Nullable="false" />
+    <Property Name="IsCandidat" Type="bit" Nullable="false" />
+    <Property Name="IsDoctor" Type="bit" Nullable="false" />
+    <Property Name="Curse" Type="nvarchar(max)" />
+    <Property Name="Faculty" Type="nvarchar(max)" />
+    <Property Name="StructPidr" Type="nvarchar(max)" />
+    <Property Name="Picture" Type="varbinary(max)" Nullable="false" />
+    <Property Name="PictureType" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="IsVerificated" Type="bit" Nullable="false" />
+    <Property Name="SystemCode" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="Laba5ModelStoreContainer">
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" p3:Type="Tables" xmlns:p3="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,104 @@
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Laba5.dll.config
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Laba5.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Laba5.pdb
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Antlr3.Runtime.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\EntityFramework.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\System.Web.Optimization.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\System.Web.Providers.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\WebGrease.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\EntityFramework.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dima\Desktop\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Laba5\Laba5\obj\Debug\Laba5.dll
+C:\Users\Dima\Desktop\Laba5\Laba5\obj\Debug\Laba5.pdb
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Laba5.dll.config
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Laba5.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Laba5.pdb
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Antlr3.Runtime.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\EntityFramework.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\System.Web.Optimization.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\System.Web.Providers.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\WebGrease.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\EntityFramework.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\obj\Debug\Laba5.dll
+C:\Users\Dima\Dropbox\Study\Университет\3 курс\Системное програмирование\Laba5\Laba5\obj\Debug\Laba5.pdb
+F:\3_univer\sysprog\лаба 5\Laba5\obj\Debug\Laba5.csprojAssemblyReference.cache
+F:\3_univer\sysprog\лаба 5\Laba5\obj\Debug\Laba5.csproj.CoreCompileInputs.cache
+F:\3_univer\sysprog\лаба 5\Laba5\obj\Debug\Laba5.dll
+F:\3_univer\sysprog\лаба 5\Laba5\obj\Debug\Laba5.pdb
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Laba5.dll.config
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Laba5.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Laba5.pdb
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Antlr3.Runtime.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\AspNet.ScriptManager.jQuery.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.AspNet.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.Core.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OAuth.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OpenId.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\EntityFramework.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.ScriptManager.WebForms.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.Web.Infrastructure.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\System.Web.Optimization.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\System.Web.Providers.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\WebGrease.dll
+F:\3_univer\sysprog\лаба 5\Laba5\bin\EntityFramework.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.Core.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OAuth.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OpenId.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\DotNetOpenAuth.AspNet.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\3_univer\sysprog\лаба 5\Laba5\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\3_univer\sysprog\лаба 5\Laba5\obj\Debug\Laba5.csproj.CopyComplete
